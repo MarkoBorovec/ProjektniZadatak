@@ -1,0 +1,549 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 2,
+                  "endLine": 41,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 2,
+                  "endLine": 43,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 2,
+                  "endLine": 45,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 2,
+                  "endLine": 46,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 2,
+                  "endLine": 48,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 2,
+                  "endLine": 49,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajKorisnika",
+                  "decoratedName": "dodajKorisnika",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 2,
+                  "endLine": 69,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 2,
+                  "endLine": 71,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 2,
+                  "endLine": 73,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 2,
+                  "endLine": 74,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 2,
+                  "endLine": 76,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 2,
+                  "endLine": 77,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 2,
+                  "endLine": 79,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 2,
+                  "endLine": 80,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 2,
+                  "endLine": 82,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 2,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'getchar'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 2,
+                  "endLine": 85,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "Return value ignored: 'scanf'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+                },
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 2,
+                  "endLine": 86,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dodajAutomobil",
+                  "decoratedName": "dodajAutomobil",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.36.32534.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/borov/OneDrive/Radna površina/Projektni zadatak_Final/ProjektniZadatak/ProjektniZadatak/functions.c"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "32077620f4913f2d89ec4df584df732593e6798190f3ffc5ec3ca4fb81d242c3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/borov/onedrive/radna površina/projektni zadatak_final/projektnizadatak/projektnizadatak/datatype.h"
+          },
+          "hashes": {
+            "sha-256": "814f7a281a43abda12e9d2b0612e3f4444402cf8146136f648a2c2cba930adc4"
+          }
+        }
+      ]
+    }
+  ]
+}
